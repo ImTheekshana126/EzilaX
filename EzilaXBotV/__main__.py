@@ -63,38 +63,36 @@ from EzilaXBotV.modules.helper_funcs.misc import paginate_modules
 from EzilaXBotV.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 @TheNatsukiBot
-𝗜'𝗺 𝗮 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗴𝗿𝗼𝘂𝗽 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗯𝗼𝘁 𝗪𝗶𝘁𝗵 𝗖𝗼𝗼𝗹 𝗠𝗼𝗱𝘂𝗹𝗲𝘀. 𝗠𝗮𝗱𝗲 𝗯𝘆 ⚡️ @TeamNatsuki
-𝗛𝗶𝘁 /help 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝘆 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 🙋‍♂️
+Hey there! My name is *Ezila*, I help you manage your group in an efficient way!
  
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Natsuki News 🙋‍♂️", url="https://t.me/Natsuki_Updates"
+            text="📡Ezila Updates", url="https://t.me/Theekshana_official"
         ),
         InlineKeyboardButton(
-            text="Support Group 💬", url="https://t.me/NatsukiSupport_Official"
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="𝚂𝚘𝚞𝚛𝚌𝚎 🗒", url="Github.com/Sadew451"
-        ),
-        InlineKeyboardButton(
-            text="Command Help ❓", url="http://t.me/TheNatsukiBot?start=help"
+            text="👥Ezila Support", url="https://t.me/Theekshana_Support"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="➕ 𝙰𝚍𝚍 𝙼𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 ➕",
-            url="t.me/TheNatsukiBot?startgroup=true",
+            text="💫Source Code", url="Github.com/ImTheekshana126/EzilaX"
+        ),
+        InlineKeyboardButton(
+            text=" ❓Commands Help", url="http://t.me/TheEzilaXBot?start=help"
+        ),
+    ],
+    [
+        InlineKeyboardButton(
+            text="🎉Add Me To Your Group",
+            url="t.me/TheEzilaXBot?startgroup=true",
         ),
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/a6281ecaae26667a13716.png"
+NATSUKI_IMG = "https://telegra.ph/file/98c90729a231f7dd78cdf.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖]()
@@ -373,7 +371,7 @@ def AnkiVector_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"* Hi There  The name's {dispatcher.bot.first_name} \n\nAs  You I'm a next generational group management bot developed by Natsuki Updates.* "
-            f"\n\n Join [NatsukiUpdates](https://t.me/Natsuki_Updates) To Keep Yourself Updated About {dispatcher.bot.first_name}"
+            f"\n\n Join [Theekshana Official](https://t.me/Theekshana_official) To Keep Yourself Updated About {dispatcher.bot.first_name}"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features"
             f"\n\nYou Can Know More About Me By Clicking The Below Buttons",
@@ -406,7 +404,7 @@ def AnkiVector_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Natsuki Support](https://t.me/NatsukiSupport_Official).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Theekshana BOTs Support](https://t.me/Theekshana_Support).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
