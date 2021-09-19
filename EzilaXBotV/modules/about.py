@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developer [Sadew🇱🇰](https://t.me/Darkridersslk)
+Developer [Theekshana BOTs 🇱🇰](https://t.me/Theekshana_Officail)
 """
 __mod_name__ = "About"
