@@ -3,7 +3,7 @@
 
 # Natsuki Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/Natsuki-v2.1?label=Repo%20Size)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki-v2.1.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/ezilax.git)
 
 # Contributors
 
