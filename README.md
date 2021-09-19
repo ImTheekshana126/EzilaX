@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/a6281ecaae26667a13716.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/900c7deadd2578017b827.png" width="400"></a></p>
 <p align="center">
 
 # Natsuki Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/Natsuki-v2.1?label=Repo%20Size)
