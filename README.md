@@ -14,7 +14,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/EzilaX)
 
-## New version Avaiilable on Telegram as THEEKSHANA OFFICIAL](https://t.me/theekshana_official)
+## New version Avaiilable on Telegram as [THEEKSHANA OFFICIAL](https://t.me/theekshana_official)
 ## Ezilax-Bot is the latest
 
 ## 👉My Updates Channel [EzilaXUpdates](https://t.me/Ezila_Updates)
