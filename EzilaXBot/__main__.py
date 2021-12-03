@@ -76,15 +76,16 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
-𝐇𝐞𝐥𝐥𝐨, \n 𝗜'𝗺 EzilaX
-𝗜'𝗺 𝗛𝗲𝗿𝗲 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀! 𝗛𝗶𝘁 /help [️️ ️](https://telegra.ph/file/584b1539d736325fab377.jpg)
+🌺Hey there! My name is [Ezila]("https://telegra.ph/file/0316ea3d18fcd52a03194.jpg").
+
+I can help manage your groups with useful features, feel free to add me to your groups!
 Project By @Ezila_Updates ❤
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ Add Sophia to your Group ➕", url="t.me/EzilaXBot?startgroup=true"),
+            text="➕ Add EzilaX to your Group ➕", url="t.me/EzilaXROBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Source Code 🗒️", callback_data="source_"),
@@ -93,7 +94,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🙋‍♀️ Sophia News", url=f"https://t.me/Ezila_Updates"),
+        InlineKeyboardButton(text="🙋‍♀️ Ezila News", url=f"https://t.me/Ezila_Updates"),
         InlineKeyboardButton(
             text="💬 Support Group", url=f"https://t.me/Ezila_Support"
         ),
@@ -105,14 +106,14 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'm` EzilaX 
+Hi.. I'm EzilaX 
 Click On The Buttons Below To Get Documentation About Specific Modules..
-Powered by @Ezila_Updates 💓 [️️ ️](https://telegra.ph/file/584b1539d736325fab377.jpg) """
+Powered by @Ezila_Updates 💓 [️️ ️](https://telegra.ph/file/0316ea3d18fcd52a03194.jpg) """
 
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
- You can support the project Of [Sadew Jayasekara](t.me/Darkridersslk) \
- Supporting isnt always financial! [SDBOTs](t.me/SDBOTs_inifinity) \
+ You can support the project Of [Theekshana Official](t.me/theekshana_official) \
+ Supporting isnt always financial! [Theekshana Support](t.me/Theekshana_support) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -365,8 +366,8 @@ def sophia_about_callback(update, context):
                  \n* I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n* I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n* I check for admins' permissions before executing any command
-                 \n* Awesome Secret @SDBOTs_inifinity
-                 \n* Support Group @SDBOTz
+                 \n* Awesome Secret @Theekshana_Official
+                 \n* Support Group @Theekshana_Support
                  \* Assistant @Ezila_Support
                  \n\nIf you have any question about EzilaX, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
@@ -400,7 +401,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..😍 I'm *EzilaX*
-                 \nHere is the [Source Code](https://github.com/sadew451/EzilaX-SD) .""",
+                 \nHere is the [Source Code](https://github.com/imtheekshana126/EzilaX) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
