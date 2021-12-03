@@ -5,7 +5,7 @@
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <p align="center"><a href="https://t.me/Ezila_Updates"><img src="https://telegra.ph/file/0316ea3d18fcd52a03194.jpg" width="400"></a></p>
 <p align="center">
-  <a href="https://github.com/sadew451/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/imtheekshana126/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/EzilaX)
 
-## New version Avaiilable on Telegram as [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/SDBOTs_inifinity)
+## New version Avaiilable on Telegram as THEEKSHANA OFFICIAL](https://t.me/theekshana_official)
 ## Ezilax-Bot is the latest
 
 ## 👉My Updates Channel [EzilaXUpdates](https://t.me/Ezila_Updates)
