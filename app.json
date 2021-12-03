@@ -2,7 +2,7 @@
 {
       "name": "EzilaX",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/584b1539d736325fab377.jpg",
+      "logo": "https://telegra.ph/file/607ef530fbcffa225fbcc.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -10,7 +10,7 @@
          "manager",
          "EzilaX"
       ],   
-   "repository": "https://github.com/Sadew451/EzilaX-SD",
+   "repository": "https://github.com/imtheekshana126/EzilaX",
    "addons": [
       {
          "options": {
@@ -91,12 +91,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001563445267"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001563445267"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
