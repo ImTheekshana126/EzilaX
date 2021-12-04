@@ -102,11 +102,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="gold", stroke_width=0, stroke_fill="gold")
     fname2 = "SophiaLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @SophiaSLBot 💞")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @EzilaXRobot 💞")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @Dihan_Official, {e}')
+   await event.reply(f'Error Go to Help From  @Theekshana_Official, {e}')
 
 
 
