@@ -8,7 +8,8 @@
   <a href="https://github.com/imtheekshana126/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-
+[![Profile views](https://komarev.com/ghpvc/?username=ezilax&label=Profile%20views)](https://github.com/imtheekshana126)   
+  
 
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
